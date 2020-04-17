@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
       - name: demoapp
-        image: wfsilva/demoapp:vdemo
+        image: wfsilva/demoapp:v1
         ports:
         - containerPort: 8080
